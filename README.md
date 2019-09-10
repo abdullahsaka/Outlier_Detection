@@ -1,1 +1,1 @@
-# OutlierDetection
+Outlier Detection Algorithms in R 
