@@ -1,4 +1,4 @@
-# Outlier Detection Algorithms in R 
+# Outlier Detection Algorithms
 
 This repository shows how I implemented outlier detection algorithms in R Studio.
 
